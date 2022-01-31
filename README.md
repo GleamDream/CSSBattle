@@ -3,6 +3,7 @@
 
 | CSSBattle | Solved |
 | --- | --- |
+| [#93 GreatWall](https://cssbattle.dev/play/93) | [/Battle\_16/093\_GreatWall.html](/Battle_16/093_GreatWall.html) |
 | [#94 Ripples](https://cssbattle.dev/play/94) | [/Battle\_16/094\_Ripples.html](/Battle_16/094_Ripples.html) |
 | [#95 Pokeball](https://cssbattle.dev/play/95) | [/Battle\_16/095\_Pokeball.html](/Battle_16/095_Pokeball.html) |
 | [#96 Mandala](https://cssbattle.dev/play/96) | [/Battle\_16/096\_Mandala.html](/Battle_16/096_Mandala.html) |

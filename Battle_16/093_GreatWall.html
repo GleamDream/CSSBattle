@@ -1,0 +1,34 @@
+<div style="width:400; height:300; background:#4F77FF">
+  <div style="width:200; height:200; border-radius:100%; top:50; left:100; background:#191919"/>
+  <div style="width:40; height:40; border-radius:100%; top:90; left:140; background:#F9E492"/>
+  <div style="width:200; height:200; top:50; left:100; clip-path:circle(50%)">
+    <div class="wall" style="top:172; left:100"/>
+    <div class="wall" style="top:198; left:100"/>
+    <div class="wall" style="top:224; left:100"/>
+    <div class="wall" style="top:159; left:220"/>
+    <div class="wall" style="top:185; left:220"/>
+    <div class="wall" style="top:211; left:220"/>
+  </div>
+  <p class="step" style="top:165"/>
+  <a class="step" style="transform:translate(0px, 6px)skew(0, -33deg)"/>
+  <div class="step" style="transform:translate(0px, 32px)skew(0, -33deg)"/>
+</div>
+<style>
+  * {
+    position: fixed;
+    margin: 0;
+    padding: 0;
+  }
+  .wall {
+    width: 100;
+    height: 16;
+    background: #F9E492;
+  }
+  .step {
+    width: 20;
+    height: 16;
+    left: 200;
+    transform: skew(0, -33deg);
+    background: #D6B73F;
+  }
+</style>
