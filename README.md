@@ -3,6 +3,7 @@
 
 | CSSBattle | Solved |
 | --- | --- |
+| [#89 Summit](https://cssbattle.dev/play/89) | [/Battle\_16/089\_Summit.html](/Battle_16/089_Summit.html) |
 | [#90 Eclipse](https://cssbattle.dev/play/90) | [/Battle\_16/090\_Eclipse.html](/Battle_16/090_Eclipse.html) |
 | [#91 Reflection](https://cssbattle.dev/play/91) | [/Battle\_16/091\_Reflection.html](/Battle_16/091_Reflection.html) |
 | [#92 Squeeze](https://cssbattle.dev/play/92) | [/Battle\_16/092\_Squeeze.html](/Battle_16/092_Squeeze.html) |
