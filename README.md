@@ -3,6 +3,7 @@
 
 | CSSBattle | Solved |
 | --- | --- |
+| [#88 TightCorner](https://cssbattle.dev/play/88) | [/Battle\_15/088\_TightCorner.html](/Battle_15/088_TightCorner.html) |
 | [#89 Summit](https://cssbattle.dev/play/89) | [/Battle\_16/089\_Summit.html](/Battle_16/089_Summit.html) |
 | [#90 Eclipse](https://cssbattle.dev/play/90) | [/Battle\_16/090\_Eclipse.html](/Battle_16/090_Eclipse.html) |
 | [#91 Reflection](https://cssbattle.dev/play/91) | [/Battle\_16/091\_Reflection.html](/Battle_16/091_Reflection.html) |
