@@ -3,6 +3,7 @@
 
 | CSSBattle | Solved |
 | --- | --- |
+| [#86 Stairway](https://cssbattle.dev/play/86) | [/Battle\_15/086\_Stairway.html](/Battle_15/086_Stairway.html) |
 | [#87 BuildingBlocks](https://cssbattle.dev/play/87) | [/Battle\_15/087\_BuildingBlocks.html](/Battle_15/087_BuildingBlocks.html) |
 | [#88 TightCorner](https://cssbattle.dev/play/88) | [/Battle\_15/088\_TightCorner.html](/Battle_15/088_TightCorner.html) |
 | [#89 Summit](https://cssbattle.dev/play/89) | [/Battle\_16/089\_Summit.html](/Battle_16/089_Summit.html) |
