@@ -3,6 +3,7 @@
 
 | CSSBattle | Solved |
 | --- | --- |
+| [#84 Junction](https://cssbattle.dev/play/84) | [/Battle\_15/084\_Junction.html](/Battle_15/084_Junction.html) |
 | [#85 Pythagoras](https://cssbattle.dev/play/85) | [/Battle\_15/085\_Pythagoras.html](/Battle_15/085_Pythagoras.html) |
 | [#86 Stairway](https://cssbattle.dev/play/86) | [/Battle\_15/086\_Stairway.html](/Battle_15/086_Stairway.html) |
 | [#87 BuildingBlocks](https://cssbattle.dev/play/87) | [/Battle\_15/087\_BuildingBlocks.html](/Battle_15/087_BuildingBlocks.html) |
