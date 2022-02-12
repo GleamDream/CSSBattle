@@ -3,6 +3,7 @@
 
 | CSSBattle | Solved |
 | --- | --- |
+| [#81 Odoo](https://cssbattle.dev/play/81) | [/Battle\_15/081\_Odoo.html](/Battle_15/081_Odoo.html) |
 | [#82 DiamondCut](https://cssbattle.dev/play/82) | [/Battle\_15/082\_DiamondCut.html](/Battle_15/082_DiamondCut.html) |
 | [#83 Supernova](https://cssbattle.dev/play/83) | [/Battle\_15/083\_Supernova.html](/Battle_15/083_Supernova.html) |
 | [#84 Junction](https://cssbattle.dev/play/84) | [/Battle\_15/084\_Junction.html](/Battle_15/084_Junction.html) |
