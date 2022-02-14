@@ -3,6 +3,7 @@
 
 | CSSBattle | Solved |
 | --- | --- |
+| [#78 Ukulele](https://cssbattle.dev/play/78) | [/Battle\_14/078\_Ukulele.html](/Battle_14/078_Ukulele.html) |
 | [#80 Piano](https://cssbattle.dev/play/80) | [/Battle\_14/080\_Piano.html](/Battle_14/080_Piano.html) |
 | [#81 Odoo](https://cssbattle.dev/play/81) | [/Battle\_15/081\_Odoo.html](/Battle_15/081_Odoo.html) |
 | [#82 DiamondCut](https://cssbattle.dev/play/82) | [/Battle\_15/082\_DiamondCut.html](/Battle_15/082_DiamondCut.html) |
