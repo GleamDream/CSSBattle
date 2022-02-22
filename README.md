@@ -5,6 +5,7 @@
 | --- | --- |
 | [#1 SimplySquare](https://cssbattle.dev/play/1) | [/Battle\_01/001\_SimplySquare.html](/Battle_01/001_SimplySquare.html) |
 | [#2 Carrom](https://cssbattle.dev/play/2) | [/Battle\_01/002\_Carrom.html](/Battle_01/002_Carrom.html) |
+| [#3 PushButton](https://cssbattle.dev/play/3) | [/Battle\_01/003\_PushButton.html](/Battle_01/003_PushButton.html) |
 | [#68 Bell](https://cssbattle.dev/play/68) | [/Battle\_12/068\_Bell.html](/Battle_12/068_Bell.html) |
 | [#76 Bee](https://cssbattle.dev/play/76) | [/Battle\_13/076\_Bee.html](/Battle_13/076_Bee.html) |
 | [#77 Notes](https://cssbattle.dev/play/77) | [/Battle\_14/077\_Notes.html](/Battle_14/077_Notes.html) |
