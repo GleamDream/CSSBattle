@@ -7,6 +7,7 @@
 | [#2 Carrom](https://cssbattle.dev/play/2) | [/Battle\_01/002\_Carrom.html](/Battle_01/002_Carrom.html) |
 | [#3 PushButton](https://cssbattle.dev/play/3) | [/Battle\_01/003\_PushButton.html](/Battle_01/003_PushButton.html) |
 | [#4 Ups n Downs](https://cssbattle.dev/play/4) | [/Battle\_01/004\_UpsnDowns.html](/Battle_01/004_UpsnDowns.html) |
+| [#5 AcidRain](https://cssbattle.dev/play/5) | [/Battle\_01/005\_AcidRain.html](/Battle_01/005_AcidRain.html) |
 | [#68 Bell](https://cssbattle.dev/play/68) | [/Battle\_12/068\_Bell.html](/Battle_12/068_Bell.html) |
 | [#76 Bee](https://cssbattle.dev/play/76) | [/Battle\_13/076\_Bee.html](/Battle_13/076_Bee.html) |
 | [#77 Notes](https://cssbattle.dev/play/77) | [/Battle\_14/077\_Notes.html](/Battle_14/077_Notes.html) |
